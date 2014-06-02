@@ -1,0 +1,9 @@
+{
+  "name": "later",
+  "description": "Define schedules and calculate future or previous schedule occurrences.",
+  "homepage": "https://github.com/apendua/meteor-later",
+  "author": "Tomasz Lenarcik",
+  "version": "1.6.1",
+  "git": "https://github.com/apendua/meteor-later.git",
+  "packages": {}
+}
