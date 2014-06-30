@@ -1,4 +1,4 @@
 meteor-later
 ============
 
-A meteor wrapper for later.js library
+A meteor wrapper for [later.js](http://bunkat.github.io/later/) library
